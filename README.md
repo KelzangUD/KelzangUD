@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kelzang Ugyen Dorji (@KelzangUD)
 - 👀 I’m interested in Fullstack Development.
-- 🌱 I’m currently learning FrontEnd Development.
+- 🌱 I’m currently working FrontEnd Development.
 - 📫 You can contact me through kuding755@gmail.com
 
 <!---
