@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kelzang Ugyen Dorji (@KelzangUD)
-- 👀 I’m interested in Fullstack Development.
-- 🌱 I’m currently working FrontEnd Development.
-- 📫 You can contact me through kuding755@gmail.com
+- 👀 Fullstack Developer | IoT enthusiast | Aspiring Content Creator.
+- 📫 check out: https://www.kelzangud.com/ to learn more about me
 
 <!---
 KelzangUD/KelzangUD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
